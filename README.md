@@ -4,6 +4,13 @@ Aplicação web desenvolvida durante um workshop do **Rails Girls**, iniciativa 
 
 O projeto utiliza **Ruby on Rails** para desenvolver uma aplicação de mural de recados, proporcionando uma experiência prática com o desenvolvimento web e o framework Ruby on Rails.
 
+## 🌐 Acesse online
+
+Confira a aplicação **Mural de Recados** diretamente pelo navegador:
+
+🔗 **[Acessar o Mural de Recados](https://mural-de-recados-ruby.vercel.app/)**
+
+
 ## 🎯 Objetivo
 
 Colocar em prática os conhecimentos de desenvolvimento web adquiridos durante o workshop, explorando a estrutura de uma aplicação Ruby on Rails.
